@@ -1,0 +1,5 @@
+Folder ini berisi project yang saya buat untuk skripsi/TA saya. Project yang saya buat merupakan aplikasi untuk identifikasi unsur hara pada tanaman kelapa sawit.
+Berbasis Andorid untuk sisi user dan website untuk sisi admin.
+Android dibuat menggunakan Xamarin (.Net, C#)
+Website menggunakan PHP, framework Codeigniter
+Database yang digunakan menggunakan MySQL
