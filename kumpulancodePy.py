@@ -117,6 +117,7 @@ word=input("Masukkan kata atau kalimat: ")
 print(count(word))
 
 ####belom selese.. bikin case base reasoning sederhana
+####update 20230321: lupa mau dibuat apa code ini. terlalu lama terjeda jadi lupa mau bikin apa
 def cekkamus(txtcek,kamus):
     if txtcek in kamus:
         return kamus[txtcek]
